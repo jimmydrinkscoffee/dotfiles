@@ -26,4 +26,5 @@ alias vcfg=~/.config/nvim
 alias tcfg=~/.config/tmux
 
 alias v=nvim
+alias h=helix
 alias t=~/.tmux.sh
